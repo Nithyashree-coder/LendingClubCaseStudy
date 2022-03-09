@@ -22,3 +22,57 @@ RemoveUnwantedRowsCols - Does common data analysis for Rows and Columns
                                  segmented analysis as well given the condition.
 </pre>
 </p>
+
+
+## Table of Contents
+* [Data Understanding Before Cleaning](#Data-Understanding-Before-Cleaning)
+* [Data Cleaning](#Data-cleaning)
+* [Data Analysis](#Data-analysis)
+* [Segmented Univariate Analysis](#segmented-univariate-analysis)
+* [Data Analysis](#Data-analysis)
+* [Bivariate Analysis](#bivariate-analysis)
+* [Multivariate Analysis](#multivariate-analysis)
+* [Conclusion](#Conclusion)
+
+## General Information
+- Provide general information about your project here.
+- What is the background of your project?
+- What is the business probem that your project is trying to solve?
+- What is the dataset that is being used?
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+## Conclusions
+- Term has significant impact in loan_status
+- Grade has significant impact in loan_status
+- Loan amount has significant impact in loan_status
+- term has significant impact in loan_status
+- Home ownership has significant impact in loan_status
+- Annual income has significant impact in loan_status
+- Profit and loss has significant impact in loan_status
+
+
+## Technologies Used
+- pandas - version '1.2.4'
+- seaborn - version '0.11.1'
+- numpy - version '1.20.1'
+
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
+## Acknowledgements
+Give credit here.
+- This project was inspired by...
+- Print using bold:
+    https://stackoverflow.com/questions/8924173/how-do-i-print-bold-text-in-python
+
+- Check which column contains null values:
+https://stackoverflow.com/questions/36226083/how-to-find-which-columns-contain-any-nan-value-in-pandas-dataframe
+
+- Nested class in python:
+https://www.geeksforgeeks.org/inner-class-in-python/![image](https://user-images.githubusercontent.com/61308322/157503086-6a3fc97e-701b-4ccd-979b-8db996a4885a.png)
+
+
+
+## Contact
+Created by [@Nithyashree-coder] - feel free to contact me!
+
