@@ -25,14 +25,14 @@ RemoveUnwantedRowsCols - Does common data analysis for Rows and Columns
 
 
 ## Table of Contents
-* [Data Understanding Before Cleaning](#Data-Understanding-Before-Cleaning)
-* [Data Cleaning](#Data-cleaning)
-* [Data Analysis](#Data-analysis)
-* [Segmented Univariate Analysis](#segmented-univariate-analysis)
-* [Data Analysis](#Data-analysis)
-* [Bivariate Analysis](#bivariate-analysis)
-* [Multivariate Analysis](#multivariate-analysis)
-* [Conclusion](#Conclusion)
+* [Data Understanding Before Cleaning]
+* [Data Cleaning]
+* [Data Analysis]
+* [Segmented Univariate Analysis]
+* [Data Analysis]
+* [Bivariate Analysis]
+* [Multivariate Analysis]
+* [Conclusion]
 
 ## General Information
 - Dataset being used is loan.csv. 
