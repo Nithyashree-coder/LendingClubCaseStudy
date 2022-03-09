@@ -56,8 +56,6 @@ RemoveUnwantedRowsCols - Does common data analysis for Rows and Columns
 - numpy - version '1.20.1'
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
 - Print using bold:
     https://stackoverflow.com/questions/8924173/how-do-i-print-bold-text-in-python
 
