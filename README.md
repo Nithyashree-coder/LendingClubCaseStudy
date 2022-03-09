@@ -1,4 +1,4 @@
-# LendingClubCaseStudy
+# Lending Club Case Study
 This repository contains data analysis for Lending Club Use Case deciding upon the status of loan that are likely to be default. <br>
 I have created a class that automates data analysis and it is designed especially to check on null column value analysis and null row value analysis.  <br>
 It separates numerical and categorical columns. Rest of the EDA is done accordingly.  <br>
