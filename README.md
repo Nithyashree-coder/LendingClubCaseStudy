@@ -35,12 +35,10 @@ RemoveUnwantedRowsCols - Does common data analysis for Rows and Columns
 * [Conclusion](#Conclusion)
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Dataset being used is loan.csv. 
+- Our task is to predict the loan defaulters.
+- The reason why we are doing this is because i f one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss for the company.
+- Identification of such applicants using EDA is the aim of this case study.
 
 ## Conclusions
 - Term has significant impact in loan_status
@@ -56,8 +54,6 @@ RemoveUnwantedRowsCols - Does common data analysis for Rows and Columns
 - pandas - version '1.2.4'
 - seaborn - version '0.11.1'
 - numpy - version '1.20.1'
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
