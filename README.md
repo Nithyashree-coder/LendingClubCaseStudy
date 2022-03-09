@@ -3,7 +3,7 @@ This repository contains data analysis for Lending Club Use Case deciding upon t
 I have created a class that automates data analysis and it is designed especially to check on null column value analysis and null row value analysis.  <br>
 It separates numerical and categorical columns. Rest of the EDA is done accordingly.  <br>
 <p> Data Understanding is the main class which will have data description, removes unwanted rows and columns. <br>
-    The dataframe is reused as an object for the methods to perform the operations in accordance as after cleaning, we will get new Dataframe everytime.  <br> 
+    The dataframe is reused as an object for the methods to perform the operations in accordance as after cleaning, we will get new dataframe everytime.  <br> 
 <br>
 Data Description - Basic information of the data from the dataframe. 
 <pre>
